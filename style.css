@@ -1,0 +1,37 @@
+.box {
+    display: flex;
+}
+.box1 {
+    margin: auto;
+    display: flex;
+    height: 100vh;
+    border: 2px solid purple;
+    width: 800px;
+    height: 600px;
+}
+.box2 {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid dodgerblue;
+    width: 400px;
+    height: 270px;
+    background-color: dodgerblue;
+}
+.i1 {
+    background-color: lightgrey;
+    border: 1px solid;
+    padding: 4px;
+    width: 270px;
+}
+.i2 {
+    padding: 4px;
+    background-color: lightgrey;
+    width: 100px;
+}
+.i3 {
+    padding: 4px;
+    background-color: lightgrey;
+    width: 170px;
+}
